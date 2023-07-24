@@ -9,8 +9,10 @@
       "48": "iCON/48.png",
       "128": "ICON/128.png"
     },
-    "action":{
-        "default_popup": "index.html",
-        "default_title": "Open osu! from Chrome Extension"
-    }
+    "permissions": [
+      "storage"
+    ],
+   "background":{
+  "scripts": ["background.js"]
+}, 
 }

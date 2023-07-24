@@ -1,0 +1,11 @@
+{
+    "name": "Open osu! from Chrome Extension",
+    "version": "1.0.0",
+    "description": "Open osu! from the Extension",
+    "manifest_version": 3,
+    "author": "GGchung",
+    "action":{
+        "default_popup": "index.html",
+        "default_title": "Open osu! from Chrome Extension"
+    }
+}

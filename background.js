@@ -1,1 +1,1 @@
-this.document.location = "osu://"
+window.open = ("osu://")

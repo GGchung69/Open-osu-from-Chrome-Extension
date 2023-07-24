@@ -5,9 +5,9 @@
     "manifest_version": 3,
     "author": "GGchung",
     "icons": {
-      "16": "ICON/16.png",
-      "48": "iCON/48.png",
-      "128": "ICON/128.png"
+      "16": "ICON/16.ico",
+      "48": "iCON/48.ico",
+      "128": "ICON/128.ico"
     },
     "permissions": [
       "storage"

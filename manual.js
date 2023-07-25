@@ -1,0 +1,1 @@
+window.open ("osu://","_self")

@@ -1,6 +1,3 @@
-if (!window.localStorage.getItem('hasSeenIntro')) {
-    window.localStorage.setItem('hasSeenIntro', 'yep');
-    chrome.tabs.create({
-      url: 'osu://'
-    });
-  }
+chrome.runtime.onInstalled.addListener(function (){
+    chrome.tabs.create({url:("index.html")})
+})

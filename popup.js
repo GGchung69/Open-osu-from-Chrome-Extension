@@ -1,1 +1,1 @@
-window.open = ("osu://")
+chrome.tabs.create({'url':"osu://"})

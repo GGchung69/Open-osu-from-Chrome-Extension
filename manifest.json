@@ -11,7 +11,7 @@
   },
  "action": {
   "default_popup": "manual.html",
-  "default_title": "Manually open osu!"
+  "default_title": "Open osu! from chrome"
 },
 "background": {
   "service_worker": "background.js"

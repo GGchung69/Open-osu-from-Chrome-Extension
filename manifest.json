@@ -20,7 +20,7 @@
       },
       "default_popup": "index.html",
       "default_title": "Open on install"
-   }
+   },
    "action": {
     "default_popup": "manual.html",
     "default_title": "Manually open osu!"

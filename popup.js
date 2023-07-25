@@ -1,1 +1,1 @@
-chrome.tabs.create({'url':"osu://"})
+this.document.location = "osu://"
